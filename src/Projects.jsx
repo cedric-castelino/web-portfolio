@@ -212,7 +212,7 @@ function Projects() {
                 <ul className="menu bg-base-200 lg:menu-horizontal rounded-box mt-5 bg-base-300">
                     <li>
                         <a 
-                            href="https://github.com/cedric-castelino/bigbrain-deploy"
+                            href="https://github.com/cedric-castelino/web-portfolio"
                             target="_blank" 
                             rel="noopener noreferrer"
                         >
