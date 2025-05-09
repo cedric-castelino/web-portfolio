@@ -270,7 +270,7 @@ function Projects() {
                 <p className="text-md mt-5 w-[95%]">This game is a 2D explorer, where the player is put into dynamic environments, with a range of enemies, allies and items. To create this game, I worked collaboratively with one other member, to generate the backend functionality for various elements of the game. This was done entirely in Java and resulted in a fully functional game. Furthermore, we wrote and completed rigorous testing for the game, exploring a range of cases.</p>
                 <p className="text-md mt-5 w-[95%]">The game was created for a UNSW course (COMP2511), and required skills in problem-solving, communication and documentation for its completion. This documentation included UML diagrams, inline comments and weekly blog updates with reflections.</p>
                 <div className='mt-5 mb-4 flex flex-wrap justify-center'>
-                    <img className='w-[40%]' src={dungeon}/>
+                    <img className='w-[30%]' src={dungeon}/>
                 </div>
             </div>
 
@@ -294,7 +294,7 @@ function Projects() {
                 <p className="text-md mt-5 w-[95%]">This program was an introduction to object-oriented programming, simulating a range of satellites and devices, each with different attributes. The program would calculate the orbital movement of the satellites and their distances were used to check their communicative range. This range also impacted the attribute of file sharing, which required functionality for file sizes, contents and the impact of moving out of the designated distance while transferring the file. Tests were also written for a variety of cases.</p>
                 <p className="text-md mt-5 w-[95%]">The program was created for a UNSW course (COMP2511) and required skills in problem-solving and documentation for its completion. This documentation included UML diagrams and inline comments.</p>
                 <div className='mt-5 mb-4 flex flex-wrap justify-center'>
-                    <img className='w-[40%]' src={satellite}/>
+                    <img className='w-[30%]' src={satellite}/>
                 </div>
             </div>
 
@@ -318,7 +318,7 @@ function Projects() {
                 <p className="text-md mt-5 w-[95%]">For this program, I collaborated with 3 other individuals to write the functionality for the backend of a Microsoft Teams Clone, entitiled 'UNSW Beans'. This required a range of functionality, such as accounts, channels, messaging, notifications and profile photos. This was completed entirely using TypeScript and also required an array of specific tests to be written.</p>
                 <p className="text-md mt-5 w-[95%]">The program was created for a UNSW course (COMP1531), and required skills in problem-solving, communication and documentation for its completion. The collaborative aspect of tasks assigned, completed and their due dates were set up using GitLab milestones and required strict adherence to the timeline of tasks set. The documentation included recorded conversations and meetings, as well as inline comments.</p>
                 <div className='mt-5 mb-4 flex flex-wrap justify-center'>
-                    <img className='w-[40%]' src={beans}/>
+                    <img className='w-[30%]' src={beans}/>
                 </div>
             </div>
 
